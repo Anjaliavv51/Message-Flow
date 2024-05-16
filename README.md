@@ -4,9 +4,8 @@ This Python repository is designed to send a finite number of messages based on 
 ---
 
 # Preview of Code 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Anjaliavv51/Message-Flow/blob/main/WhatsApp%20Video%202024-05-16%20at%2021.28.14_b0728e7c.mp4" type="video/mp4">
-</video>
+https://github.com/PranavBarthwal/cosmoXplore/assets/154777864/cbb3ed82-be7c-47ec-bd19-c0b15f04fe9a
+
 
 ---
 
